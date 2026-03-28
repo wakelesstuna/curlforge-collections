@@ -1,0 +1,10 @@
+{
+  "id": "74613c82-39ea-4364-8da7-6df947754ea8",
+  "name": "delete",
+  "method": "DELETE",
+  "url": "",
+  "body": {
+    "type": "json",
+    "content": ""
+  }
+}
