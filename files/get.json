@@ -2,7 +2,7 @@
   "id": "f04e5209-e655-470c-b2e4-5d82eb982526",
   "name": "get",
   "method": "GET",
-  "url": "",
+  "url": "https://jsonplaceholder.typicode.com/todos/1",
   "body": {
     "type": "json",
     "content": ""

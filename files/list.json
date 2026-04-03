@@ -2,7 +2,7 @@
   "id": "27e20401-6f92-4b78-8f80-67e9ae8f874d",
   "name": "list",
   "method": "GET",
-  "url": "https://jsonplaceholder.typicode.com/todos/1",
+  "url": "https://jsonplaceholder.typicode.com/todos",
   "body": {
     "type": "json",
     "content": "{\n  \"asdfads\": \"sadfa\",\n  \"test\": \"\",\n  \"as\": true\n}"
